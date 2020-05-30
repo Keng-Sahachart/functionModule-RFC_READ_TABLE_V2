@@ -6,3 +6,6 @@ Which it can be return result single field table is only 512 character, variable
 
 this function  can be return result single field table to  8000 and variable ROWSKIPS and ROWCOUNT can be specify number to 16 digit
 for support querying big table to external system to other proceed.
+
+thx.
+keng.
